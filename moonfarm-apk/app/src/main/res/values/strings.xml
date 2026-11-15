@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Moon Farm Commander</string>
-    <string name="title_activity_main">Moon Farm Commander</string>
-    <string name="package_name">com.rayhan.moonfarmcommander</string>
-    <string name="custom_url_scheme">com.rayhan.moonfarmcommander</string>
-</resources>
