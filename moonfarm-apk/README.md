@@ -19,13 +19,13 @@ The Android project (Capacitor) is in the `moonfarm-apk` folder.
 ## NASA data
 - **NASA DONKI** solar flare database: real flares from the last 30 days become the game's flare events, with their real class and date (X needs a level 3 shield, M level 2, C level 1). Works live online. If offline it uses your last saved NASA data, then a small labeled archive.
 - **Radiation rates:** Chang'E-4 lander (Zhang et al., Science Advances, 2020) and NASA Curiosity RAD (Hassler et al., Science, 2014).
-- The game says on screen what is live, saved or archived. Full list: [docs/SOURCES.md](docs/SOURCES.md).
+- The game says on screen what is live, saved or archived. Full list: [SOURCES.md](https://github.com/mdrayhanwadud/moonfarm-commander/blob/main/moonfarm-apk/SOURCES.md).
 
 ## Features
 Five themed pages (Power, Air, Food, Radiation, Crew) · a 🎬 Watch section with 5 short animated "See what happens" videos (solar storm, radiation, no power, no food, no air) with captions and optional read-aloud voice · a mini-game on each page · daily missions · name your astronauts · About pages (what it is, in the game, in real space) · NASA science and Quran & Space collectible cards · Explorer mode that shows the formulas (for older siblings and classrooms) · score and mission report · slow unlock of new systems so kids are not overwhelmed (radiation day 3, dust day 4).
 
 ## Run it
-- Open `index.html` in a browser, or host this folder on GitHub Pages (see [docs/HOSTING-GUIDE.md](docs/HOSTING-GUIDE.md)).
+- Open `index.html` in a browser, or host this folder on GitHub Pages (see [HOSTING-GUIDE.md](https://github.com/mdrayhanwadud/moonfarm-commander/blob/main/moonfarm-apk/HOSTING-GUIDE.md)).
 - Live NASA data: get a free key at api.nasa.gov and save it in the game (ℹ️ → 🔑). Use ℹ️ → "Test NASA connection" to check.
 - Android: wrap with Capacitor (`npx cap add android`) or install from the browser ("Add to Home Screen").
 
