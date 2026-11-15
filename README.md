@@ -3,7 +3,9 @@
 A farm-style game for ages 7 to 12 where kids run a Moon or Mars outpost. Every choice costs something: power, air, food or radiation safety.
 
 **Made for:** NASA Space Apps Challenge 2026, "Build a Junior Astronaut Mission Trainer"
-**Play:** https://mdrayhanwadud.github.io/moonfarm-commander/  ·  **Source code:** https://github.com/mdrayhanwadud/moonfarm-commander  ·  **Demo slides:** https://docs.google.com/presentation/d/1AwjqzDxFQcaQnihnwKCFuyTH2RjLQfui/edit?usp=sharing
+**Play:** https://mdrayhanwadud.github.io/moonfarm-commander/  · 
+**Source code:** https://github.com/mdrayhanwadud/moonfarm-commander  · 
+**Demo slides:** https://docs.google.com/presentation/d/1AwjqzDxFQcaQnihnwKCFuyTH2RjLQfui/edit?usp=sharing
 
 The Android project (Capacitor) is in the `moonfarm-apk` folder.
 
